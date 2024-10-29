@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/NearDuckyu"
-  width="600"
+  width="1000"
   height="300"
 />
 </a>
